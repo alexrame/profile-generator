@@ -11,7 +11,7 @@ weight = 1
 [[experience.experiences]]
   role = "Research Scientist"
   company = "Heuritech"
-  year = "2015-2020"
+  year = "2015 - 2020"
   url = "https://www.heuritech.com"
 
 [[experience.experiences]]
@@ -25,23 +25,22 @@ weight = 1
 [[education.courses]]
   course = "PhD student"
   institution = "Sorbonne University (LIP6)"
-  year = "2021-"
-  url = "https://www.lip6.fr/?LANG=en"
+  year = "2021 -"
+  url = "https://www.lip6.fr/"
 
 [[education.courses]]
   course = "Master of Science in Operations Research"
-  institution = "COLUMBIA University"
-  year = "2014-2015"
+  institution = "Columbia University"
+  year = "2014 - 2015"
   url = "https://www.columbia.edu/"
 
 [[education.courses]]
   course = "Diplôme d’Ingénieur"
-  institution = "Ecole POLYTECHNIQUE"
-  year = "2011-2014"
+  institution = "Ecole Polytechnique"
+  year = "2011 - 2014"
   url = "https://www.polytechnique.edu/en"
 +++
 
 # About me
 
-I'm currently a PhD student at Sorbonne University under the supervision of
-Professor Matthieu Cord. My thesis is on information theory for deep-ensembles learning.
+I'm currently a PhD student at Sorbonne University under the supervision of Professor Matthieu Cord. My thesis is on Information Theory for Deep-Ensembles.

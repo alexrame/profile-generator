@@ -23,7 +23,7 @@ preserveTaxonomyNames = true
 paginate = 30
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "arthurdouillard"
+disqusShortname = "alexandrerame"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-102629480-1"
@@ -55,7 +55,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Arthur Douillard"
+  name = "Alexandre Ramé"
   role = "PhD student & Research Scientist"
 
   # Organizations/Affiliations.
@@ -63,11 +63,11 @@ enableGitInfo = false
   organizations = [  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ar.douillard@gmail.com"
+  avatar = "img/portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "alexandre.rame.cl@gmail.com"
   address = ""
   office_hours = ""
-  phone = ""
+  phone = "+33 6 32 17 09 14"
   skype = ""
   telegram = ""
 
@@ -117,7 +117,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "Ar_Douilllard"
+  twitter = "ramealexandre"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -261,10 +261,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "//twitter.com/ramealexandre"
 
-  #[[params.social]]
-  #  icon = "google-scholar"
-  #  icon_pack = "ai"
-  #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=7znwivwAAAAJ&hl=en"
 
   [[params.social]]
     icon = "github"

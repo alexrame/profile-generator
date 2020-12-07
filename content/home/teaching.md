@@ -14,58 +14,22 @@ subtitle = ""
 weight = 6
 
 [[teaching.teaching]]
-  title = "Deep Learning"
-  place = "EPITA"
-  date = "Fall 2019 - ..."
-  role = "Lecturer"
-
-[[teaching.teaching]]
   title = "Deep Learning for Computer Vision"
   place = "Sorbonne University"
-  date = "Fall 2019 - ..."
+  date = "Fall 2020/..."
   role = "Teacher Assistant"
   links = [{ link = "rdfia", link_label = "URL", ext = false, page = true}]
 
 [[teaching.teaching]]
-  title = "Deep Learning for Computer Vision"
-  place = "EPITA"
-  date = "Fall 2018"
+  title = "Deep Learning"
+  place = "Master Data Science l'X-Paris Saclay"
+  date = "Fall 2017/Fall 2018"
   role = "Teacher Assistant"
 
 [[teaching.teaching]]
-  title = "C Programming"
-  place = "EPITA"
-  date = "Fall 2017"
-  role = "Teacher Assistant"
-
-[[teaching.teaching]]
-  title = "Unix / Shell / Algorithm theory"
-  place = "EPITA"
-  date = "Fall 2017"
-  role = "Teacher Assistant"
-
-[[teaching.teaching]]
-  title = "Java Programming"
-  place = "EPITA"
-  date = "Spring 2017"
-  role = "Teacher Assistant"
-
-[[teaching.teaching]]
-  title = "SQL (Postgres) Programming"
-  place = "EPITA"
-  date = "Spring 2017"
-  role = "Teacher Assistant"
-
-[[teaching.teaching]]
-  title = "Web Programming & Project Management"
-  place = "EPITA"
-  date = "Spring 2017"
-  role = "Teacher Assistant"
-
-[[teaching.teaching]]
-  title = "C++ Programming"
-  place = "EPITA"
-  date = "Spring 2017"
-  role = "Teacher Assistant"
+  title = "Mathematics"
+  place = "Fondation d'Auteuil"
+  date = "Nov 2011 - Mar 2012"
+  role = "Volunteer Teacher and Youth Leader"
 +++
 
