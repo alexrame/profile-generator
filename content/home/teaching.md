@@ -16,9 +16,8 @@ weight = 6
 [[teaching.teaching]]
   title = "Deep Learning for Computer Vision"
   place = "Sorbonne University"
-  date = "Fall 2020/..."
+  date = "Fall 2020"
   role = "Teacher Assistant"
-  links = [{ link = "rdfia", link_label = "URL", ext = false, page = true}]
 
 [[teaching.teaching]]
   title = "Deep Learning"
