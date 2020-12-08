@@ -56,14 +56,14 @@ enableGitInfo = false
 
   # Your details.
   name = "Alexandre Ramé"
-  role = "PhD student & Research Scientist"
+  role = "PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait_alex.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait_alex_blackwhite.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alexandre.rame.cl@gmail.com"
   address = ""
   office_hours = ""

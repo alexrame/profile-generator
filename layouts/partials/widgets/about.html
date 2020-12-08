@@ -65,28 +65,6 @@
 
     <div class="row">
 
-      {{ with $page.Params.experience }}
-      <div class="col-sm-5">
-        <h3>{{ "Recent Experience" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .experiences }}
-          <li>
-            <i class="fa-li fa fa-briefcase"></i>
-            <div class="description">
-              <p class="course">{{ .role }}</p>
-              {{ if .url }}
-              <a href="{{ .url }}">
-                <p class="institution">{{ .company }}</p>
-              </a>
-              {{ else }}
-              <p class="institution">{{ .company }}</p>
-              {{ end }}
-            </div>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
 
       {{ with $page.Params.education }}
       <div class="col-sm-7">
@@ -103,6 +81,29 @@
               </a>
               {{ else }}
               <p class="institution">{{ .institution }}</p>
+              {{ end }}
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+     {{ with $page.Params.experience }}
+      <div class="col-sm-5">
+        <h3>{{ "Experience" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .experiences }}
+          <li>
+            <i class="fa-li fa fa-briefcase"></i>
+            <div class="description">
+              <p class="course">{{ .role }}{{ with .year }}, {{ . }}{{ end }}</p>
+              {{ if .url }}
+              <a href="{{ .url }}">
+                <p class="institution">{{ .company }}</p>
+              </a>
+              {{ else }}
+              <p class="institution">{{ .company }}</p>
               {{ end }}
             </div>
           </li>

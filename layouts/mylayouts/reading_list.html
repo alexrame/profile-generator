@@ -6,17 +6,11 @@
 
 <section class="home-section">
     <div class="container">
-        <p>
-            A list of books I read. I strongly recommend all books with a star.
-        </p>
-        <p>
-            My goal is not primarily to read X books per year, but rather to read well. Although,
-            reading more would be appreciated.
-        </p>
+        <p>A short list of books I loved.</p>
 
         {{ with .Params.reading }}
         {{ range .reading }}
-        <h3>{{(len .books)}} books read in {{ .year }}.</h3>
+        <h3>In {{ .year }}:</h3>
         <div class="row pub-list-item">
 
             <ul style="list-style: none;">

@@ -11,7 +11,7 @@ weight = 1
 [[experience.experiences]]
   role = "Research Scientist"
   company = "Heuritech"
-  year = "2015 - 2020"
+  year = "2016 - 2020"
   url = "https://www.heuritech.com"
 
 [[experience.experiences]]
