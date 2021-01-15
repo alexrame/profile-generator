@@ -1,5 +1,5 @@
 +++
-title = "DICE: TBA"
+title = "DICE: Diversity in Deep Ensembles via Conditional Redundancy Adversarial Estimation"
 date = 2020-01-01T00:00:00
 math = false
 highlight = false
@@ -13,22 +13,23 @@ list_format = 0
 
 pretty_date = ""
 
-authors = ["Alexandre Rame", "Matthieu Cord"]
+authors = ["Alexandre Ramé", "Matthieu Cord"]
 
-pdf = false
+abstract_short = "Driven by arguments from information theory, we introduce a new learning strategy for deep ensembles that increases diversity among members: we adversarially prevent features from being conditionally redundant."
+
+publication_origin = "ICLR 2021"
+
+pdf = "https://arxiv.org/pdf/2101.05544.pdf"
 project_page = false
 code = false
 
-links = [
-    {url_pdf = false}
-]
-
-url_pdf = false
+url_pdf = ""
+url_custom = [{name = "arxiv", url = "https://arxiv.org/pdf/2101.05544.pdf"}, {name = "openreview", url = "https://openreview.net/forum?id=R2ZlTVPx0Gk"}]
 url_code = false
 url_dataset = false
 url_poster = false
 url_project = false
-url_slides = false
+url_slides = "https://drive.google.com/file/d/1X4sWMKgQJX9SFLruxWx2pzeWN-V54b2f/view?usp=sharing"
 url_source = false
 url_video = false
 

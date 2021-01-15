@@ -11,11 +11,10 @@ highlight = false
 #   3 = MLA
 list_format = 1
 
-pretty_date = "June 2020"
 
 abstract_short = "We improve performances of object detectors via combining different datasets through soft distillation."
 
-authors = ["Alexandre Rame", "Emilien Garreau", "Hedi Ben-Younes", "Charles Ollion"]
+authors = ["Alexandre Ramé", "Emilien Garreau", "Hedi Ben-Younes", "Charles Ollion"]
 publication_origin = "arXiv Preprint"
 
 pdf = "https://arxiv.org/abs/1812.02611"

@@ -1,5 +1,5 @@
 +++
-title = "Mixmo: TBA"
+title = "Deep Ensembles for free through Data Augmentations: TBA"
 date = 2020-03-01T00:00:00
 math = false
 highlight = false
@@ -13,7 +13,7 @@ list_format = 0
 
 pretty_date = ""
 
-authors = ["Alexandre Rame", "Rémy Sun", "Matthieu Cord"]
+authors = ["Alexandre Ramé", "Rémy Sun", "Matthieu Cord"]
 
 pdf = false
 project_page = false

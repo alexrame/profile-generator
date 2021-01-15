@@ -15,7 +15,7 @@ pretty_date = ""
 
 abstract_short = "We detect continuous colors for fashion garments using a new architecture."
 
-authors = ["Alexandre Rame", "Arthur Douillard", "Charles Ollion"]
+authors = ["Alexandre Ramé", "Arthur Douillard", "Charles Ollion"]
 publication_origin = "arXiv Preprint"
 
 pdf = "https://arxiv.org/abs/2010.02849"

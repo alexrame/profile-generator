@@ -12,6 +12,12 @@ list_format = 1
 type = "mylayouts"
 layout = "reading_list"
 
+[[reading.reading]]
+    year = "In 2021"
+    books = [
+        {name = "Expiration", genre = "Sci-Fi", author = "Ted Chiang", quality = "good"},
+        {name = "L'Anomalie", genre = "Adventure", author = "Hervé Le Tellier", quality = "good"},
+    ]
 
 [[reading.reading]]
     year = "In 2020"
@@ -26,7 +32,7 @@ layout = "reading_list"
         {name = "Miroir de Nos Peines", genre = "Adventure", author = "Pierre Lemaitre", quality = "good"},
         {name = "Les Enfants de Dune", genre = "Sci-Fi", author = "Frank Herbert", quality = "good"},
         {name = "Les Livres de La Terre Fracturée", genre = "Sci-Fi", author = "N.K. Jemisin", quality = "good"},
-        {name = "L' Ecrivain D' Odeur", genre = "Biography", author = "Jean-Claude Ellena", quality = "good"}
+        {name = "L' Ecrivain D' Odeur", genre = "Biography", author = "Jean-Claude Ellena", quality = "good"},
     ]
 
 [[reading.reading]]
