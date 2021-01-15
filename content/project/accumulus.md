@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["word2vec"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/infusion-co/accumulus"
+external_link = "https://infusion-co.github.io/accumulus/#/cloud-nine"
 
 # Does the project detail page use math formatting?
 math = false

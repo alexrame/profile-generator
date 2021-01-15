@@ -6,11 +6,11 @@
 
 <section class="home-section">
     <div class="container">
-        <p>A short list of books I loved.</p>
+        <p>A non-exhaustive short list of books I loved.</p>
 
         {{ with .Params.reading }}
         {{ range .reading }}
-        <h3>In {{ .year }}:</h3>
+        <h3>{{ .year }}:</h3>
         <div class="row pub-list-item">
 
             <ul style="list-style: none;">

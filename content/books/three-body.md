@@ -17,4 +17,4 @@ image = ""
 caption = ""
 +++
 
-Bouquin unique en son genre, qui plaira aux adeptes de SF comme aux fans de thrillers et aux ufologues. Premier d'une trilogie qui aura remporté le prix Hugo.
+Bouquin unique, belle porte d'entrée à la hard sciences, qui plaira aux adeptes de SF comme aux fans de thrillers et aux ufologues. Premier tome d'une trilogie qui aura remporté le prix Hugo.

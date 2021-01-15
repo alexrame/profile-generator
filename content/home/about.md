@@ -9,7 +9,7 @@ weight = 1
 
 # List your experience.
 [[experience.experiences]]
-  role = "Research Scientist"
+  role = "Research Scientist in Deep Learning"
   company = "Heuritech"
   year = "2016 - 2020"
   url = "https://www.heuritech.com"
@@ -23,24 +23,23 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD student"
+  course = "PhD Student"
   institution = "Sorbonne University (LIP6)"
   year = "2021 -"
   url = "https://www.lip6.fr/"
 
 [[education.courses]]
-  course = "Master of Science in Operations Research"
+  course = "Master of Science in Applied Mathematics and Operations Research"
   institution = "Columbia University"
   year = "2014 - 2015"
   url = "https://www.columbia.edu/"
 
 [[education.courses]]
-  course = "Diplôme d’Ingénieur"
+  course = "Diplôme d’ Ingénieur Polytechnicien"
   institution = "Ecole Polytechnique"
   year = "2011 - 2014"
   url = "https://www.polytechnique.edu/en"
 +++
 
-# About me
 
-I'm currently a PhD student at Sorbonne University under the supervision of Professor Matthieu Cord. My thesis is on Information Theory for Deep-Ensembles.
+I'm currently a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis is about information theory for deep-ensembles applied to computer vision.
