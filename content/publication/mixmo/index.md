@@ -1,5 +1,5 @@
 +++
-title = "Deep Ensembles for free through Data Augmentations: TBA"
+title = "MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks"
 date = 2020-03-01T00:00:00
 math = false
 highlight = false
@@ -12,18 +12,20 @@ highlight = false
 list_format = 0
 
 pretty_date = ""
+abstract_short = "We introduce MixMo, a new generalized framework for learning multi-input multi-output deep subnetworks. In particular, we study how the multiple inputs should be mixed. We obtain sota on CIFAR and Tiny ImageNet. We open a new line of research that better leverages the expressiveness of large networks."
 
 authors = ["Alexandre Ramé", "Rémy Sun", "Matthieu Cord"]
+publication_origin = "arXiv Preprint"
 
-pdf = false
+pdf = "https://arxiv.org/abs/2103.06132"
 project_page = false
 code = false
 
 links = [
-    {url_pdf = false}
+    {url_pdf = "https://arxiv.org/abs/2103.06132"}
 ]
 
-url_pdf = false
+url_pdf = "https://arxiv.org/abs/2103.06132"
 url_code = false
 url_dataset = false
 url_poster = false

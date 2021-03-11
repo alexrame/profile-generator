@@ -41,4 +41,3 @@ image = ""
 caption = ""
 +++
 
-https://arxiv.org/abs/2004.13513
