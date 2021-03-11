@@ -12,7 +12,7 @@ highlight = false
 list_format = 0
 
 pretty_date = ""
-abstract_short = "We introduce MixMo, a new generalized framework for learning multi-input multi-output deep subnetworks. In particular, we study how the multiple inputs should be mixed. We obtain sota on CIFAR and Tiny ImageNet. We open a new line of research that better leverages the expressiveness of large networks."
+abstract_short = "We introduce a new generalized framework for learning multi-input multi-output subnetworks and study how to best mix the inputs. We obtain sota on CIFAR and Tiny ImageNet by better leveraging the expressiveness of large networks."
 
 authors = ["Alexandre Ramé", "Rémy Sun", "Matthieu Cord"]
 publication_origin = "arXiv Preprint"
