@@ -24,12 +24,12 @@ project_page = false
 code = false
 
 url_pdf = ""
-url_custom = [{name = "arxiv", url = "https://arxiv.org/pdf/2101.05544.pdf"}, {name = "openreview", url = "https://openreview.net/forum?id=R2ZlTVPx0Gk"}]
+url_custom = [{name = "PDF", url = "https://arxiv.org/pdf/2101.05544.pdf"}, {name = "OpenReview", url = "https://openreview.net/forum?id=R2ZlTVPx0Gk"}]
 url_code = false
 url_dataset = false
 url_poster = false
 url_project = false
-url_slides = "https://drive.google.com/file/d/1X4sWMKgQJX9SFLruxWx2pzeWN-V54b2f/view?usp=sharing"
+url_slides = "https://drive.google.com/file/d/1qN8zppFMYpvCub6utm2ALfTwOsyw9GHe/view?usp=sharing"
 url_source = false
 url_video = false
 
