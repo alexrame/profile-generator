@@ -36,6 +36,6 @@ url_video = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "featured.jpg"
 caption = ""
 +++

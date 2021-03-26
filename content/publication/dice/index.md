@@ -23,11 +23,11 @@ pdf = "https://arxiv.org/pdf/2101.05544.pdf"
 project_page = false
 code = false
 
-url_pdf = ""
-url_custom = [{name = "PDF", url = "https://arxiv.org/pdf/2101.05544.pdf"}, {name = "OpenReview", url = "https://openreview.net/forum?id=R2ZlTVPx0Gk"}]
+url_pdf = "https://arxiv.org/pdf/2101.05544.pdf"
+url_custom = [{name = "OpenReview", url = "https://openreview.net/forum?id=R2ZlTVPx0Gk"}]
 url_code = false
 url_dataset = false
-url_poster = false
+url_poster = "https://drive.google.com/file/d/1Kcu4YZYn4yowp9H6CKht_upoI6-2plaU/view?usp=sharing"
 url_project = false
 url_slides = "https://drive.google.com/file/d/1qN8zppFMYpvCub6utm2ALfTwOsyw9GHe/view?usp=sharing"
 url_source = false
@@ -35,6 +35,6 @@ url_video = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "featured.jpg"
 caption = ""
 +++
