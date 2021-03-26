@@ -24,7 +24,7 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Student"
-  institution = "Sorbonne University (LIP6)"
+  institution = "Sorbonne University (LIP6)."
   year = "2021 -"
   url = "https://www.lip6.fr/"
 
@@ -42,4 +42,6 @@ weight = 1
 +++
 
 
-I'm currently a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis is about information theory for deep-ensembles applied to computer vision.
+I am a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis is about deep-ensembles in computer vision, with interests in information theory and data augmentation.
+
+Member of the VISA-DEEP chair of research and teaching in artificial intelligence: https://chaire-visadeep.github.io/ .
