@@ -42,6 +42,4 @@ weight = 1
 +++
 
 
-I am a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis is about deep-ensembles in computer vision, with interests in information theory and data augmentation.
-
-Member of the VISA-DEEP chair of research and teaching in artificial intelligence: https://chaire-visadeep.github.io/ .
+I am a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis is about deep-ensembles in computer vision, with interests in information theory and data augmentation. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.

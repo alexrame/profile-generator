@@ -19,14 +19,14 @@ publication_origin = "arXiv Preprint"
 
 pdf = "https://arxiv.org/abs/2103.06132"
 project_page = false
-code = false
+code = true
 
 links = [
     {url_pdf = "https://arxiv.org/abs/2103.06132"}
 ]
 
 url_pdf = "https://arxiv.org/abs/2103.06132"
-url_code = false
+url_code = "https://github.com/alexrame/mixmo-pytorch"
 url_dataset = false
 url_poster = false
 url_project = false
