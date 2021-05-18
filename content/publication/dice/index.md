@@ -29,9 +29,9 @@ url_code = false
 url_dataset = false
 url_poster = "https://drive.google.com/file/d/1Kcu4YZYn4yowp9H6CKht_upoI6-2plaU/view?usp=sharing"
 url_project = false
-url_slides = "https://drive.google.com/file/d/1qN8zppFMYpvCub6utm2ALfTwOsyw9GHe/view?usp=sharing"
+url_slides = "https://drive.google.com/file/d/1YbQTExQAl4kTmEtaHCSK9WUtfiK7vnKS/view?usp=sharing"
 url_source = false
-url_video = false
+url_video = "https://iclr.cc/virtual/2021/poster/2650"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

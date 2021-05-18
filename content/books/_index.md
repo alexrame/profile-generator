@@ -16,7 +16,8 @@ layout = "reading_list"
     year = "In 2021"
     books = [
         {name = "Expiration", genre = "Sci-Fi", author = "Ted Chiang", quality = "good"},
-        {name = "L'Anomalie", genre = "Adventure", author = "Hervé Le Tellier", quality = "good"},
+        {name = "L' Anomalie", genre = "Adventure", author = "Hervé Le Tellier", quality = "good"},
+        {name = "Gagner la guerre", genre = "Fantasy", author = "Jean-Philippe Jaworski", quality = "good"},
     ]
 
 [[reading.reading]]
@@ -71,10 +72,10 @@ layout = "reading_list"
         {name = "Au Revoir Là-Haut", genre = "Adventure", author = "Pierre Lemaitre", quality = "good"},
         {name = "Séries Camille Verhœven", genre = "Adventure", author = "Pierre Lemaitre", quality = "good"},
         {name = "La Carte et Le Territoire", genre = "Adventure", author = "Michel Houellebecq", quality = "good"},
-        {name = "L'Ecume Des Jours", author = "Boris Vian", quality = "good", genre = "Inclassable"},
+        {name = "L' Ecume Des Jours", author = "Boris Vian", quality = "good", genre = "Inclassable"},
         {name = "Le Prophète", author = "Khalil Gibran", quality = "good", genre = "Inclassable"},
         {name = "Les Rois Maudits", author = "Maurice Druon", quality = "good", genre = "History"},
-        {name = "Le Grand Secret", author = "Maurice Barjavel", quality = "good", genre = "Mystery"},
+        {name = "Le Grand Secret", author = "René Barjavel", quality = "good", genre = "Mystery"},
     ]
 
 
