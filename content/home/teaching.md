@@ -16,7 +16,7 @@ weight = 6
 [[teaching.teaching]]
   title = "Deep Learning for Computer Vision"
   place = "Sorbonne University"
-  date = "Fall 2020"
+  date = "Fall 2020/ Fall 2021"
   role = "Teacher Assistant"
 
 [[teaching.teaching]]
