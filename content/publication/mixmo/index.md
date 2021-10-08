@@ -29,9 +29,9 @@ links = [
 url_pdf = "https://arxiv.org/abs/2103.06132"
 url_code = "https://github.com/alexrame/mixmo-pytorch"
 url_dataset = false
-url_poster = false
+url_poster = "https://drive.google.com/file/d/1j02MmWK-I6MxNM3-R1oDE_gIJBHUCjSt/view?usp=sharing"
 url_project = false
-url_slides = false
+url_slides = "https://drive.google.com/file/d/1YvFNlrbuORvXVMofFpTT7rSPIww3yuZ_/view?usp=sharing"
 url_source = false
 url_video = false
 

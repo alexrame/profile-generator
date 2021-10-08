@@ -30,7 +30,7 @@ url_code =  false
 url_dataset = false
 url_poster = false
 url_project = false
-url_slides = false
+url_slides = "false"
 url_source = false
 url_video = "https://www.youtube.com/watch?v=44He4CR8tlE&t=358s&ab_channel=Heuritech"
 

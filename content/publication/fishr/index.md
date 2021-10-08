@@ -30,7 +30,7 @@ url_code = "https://github.com/alexrame/fishr"
 url_dataset = false
 url_poster = false
 url_project = false
-url_slides = false
+url_slides = "https://drive.google.com/file/d/1nrkfB2hGrDucMMhlpzeVq52dYiDcfsEX/view?usp=sharing"
 url_source = false
 url_video = false
 
