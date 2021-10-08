@@ -27,9 +27,9 @@ url_pdf = "https://arxiv.org/pdf/2101.05544.pdf"
 url_custom = [{name = "OpenReview", url = "https://openreview.net/forum?id=R2ZlTVPx0Gk"}]
 url_code = false
 url_dataset = false
-url_poster = "https://drive.google.com/file/d/1Kcu4YZYn4yowp9H6CKht_upoI6-2plaU/view?usp=sharing"
+url_poster = "poster_dice.png"
 url_project = false
-url_slides = "https://drive.google.com/file/d/1YbQTExQAl4kTmEtaHCSK9WUtfiK7vnKS/view?usp=sharing"
+url_slides = "dice_prez.pdf"
 url_source = false
 url_video = "https://iclr.cc/virtual/2021/poster/2650"
 
