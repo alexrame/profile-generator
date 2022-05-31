@@ -15,7 +15,7 @@ list_format = 1
 abstract_short = "We propose a new dynamic transformer architecture for continual learning with state-of-the-art performances."
 
 authors = ["Arthur Douillard", "Alexandre Ramé", "Guillaume Couairon", "Matthieu Cord"]
-publication_origin = "arXiv Preprint"
+publication_origin = "CVPR 2022"
 
 pdf = "https://arxiv.org/abs/2111.11326"
 project_page = false

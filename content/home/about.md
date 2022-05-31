@@ -24,9 +24,9 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Student"
-  institution = "Sorbonne University (LIP6)."
-  year = "2021 -"
-  url = "https://www.lip6.fr/"
+  institution = "Sorbonne University (ISIR)."
+  year = "2020 -"
+  url = "https://www.isir.upmc.fr/"
 
 [[education.courses]]
   course = "Master of Science in Applied Mathematics and Operations Research"
@@ -42,5 +42,5 @@ weight = 1
 +++
 
 
-I am a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis aims at improving the robustness of deep learning networks, not despite the complexity of the models and data, but thanks to their diversity. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
+I am a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis aims at improving the robustness of deep learning networks by leveraging their diversity. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
 
