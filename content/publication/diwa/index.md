@@ -12,10 +12,10 @@ highlight = false
 list_format = 1
 
 
-abstract_short = "To improve out-of-distribution generalization, we average diverse weights obtained from different training runs; this strategy is motivated by an extension of the bias-variance theory to weight averaging and is state-of-the-art on DomainBed."
+abstract_short = "To improve out-of-distribution generalization on DomainBed, we average diverse weights obtained from different training runs; this strategy is motivated by an extension of the bias-variance theory to weight averaging."
 
 authors = ["Alexandre Ramé", "Matthieu Kirchmeyer", "Thibaud Rahier", "Alain Rakotomamonjy", "Patrick Gallinari", "Matthieu Cord"]
-publication_origin = "arXiv preprint"
+publication_origin = "ICML 2022 PODS Workshop"
 pdf = "https://arxiv.org/abs/2205.09739"
 project_page = false
 code = false

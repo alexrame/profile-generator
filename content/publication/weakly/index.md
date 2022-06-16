@@ -16,7 +16,7 @@ pretty_date = ""
 abstract_short = "We present a method to learn a visual representation adapted for e-commerce products."
 
 authors = ["Charles Corbiere", "Hedi Ben-Younes", "Alexandre Ramé", "Charles Ollion"]
-publication_origin = "ICCV 2017 Workshop"
+publication_origin = "ICCV 2017 Fashion Workshop"
 
 pdf = "https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Corbiere_Leveraging_Weakly_Annotated_ICCV_2017_paper.pdf"
 project_page = false
