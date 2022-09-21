@@ -9,6 +9,12 @@ weight = 1
 
 # List your experience.
 [[experience.experiences]]
+  role = "Research Scientist Intern"
+  company = "FAIR Meta, Fairness and Robustness Team"
+  year = "2022"
+  url = "https://ai.facebook.com/"
+
+[[experience.experiences]]
   role = "Research Scientist in Deep Learning"
   company = "Heuritech"
   year = "2016 - 2020"
@@ -42,5 +48,5 @@ weight = 1
 +++
 
 
-I am a PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. My thesis aims at improving the robustness of deep learning networks by leveraging their diversity. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
+Currently research intern at FAIR. PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. Trying to make deep neural networks generalize out of distribution. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
 
