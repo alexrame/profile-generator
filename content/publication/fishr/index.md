@@ -1,5 +1,5 @@
 +++
-title = "Fishr: Invariant Gradient Variances for Out-of-distribution Generalization"
+title = "Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization"
 date = 2021-09-07
 math = false
 highlight = false

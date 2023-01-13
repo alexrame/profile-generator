@@ -11,7 +11,7 @@ weight = 1
 [[experience.experiences]]
   role = "Research Scientist Intern"
   company = "FAIR Meta, Fairness and Robustness Team"
-  year = "2022"
+  year = "Sep 2022 - Feb 2023"
   url = "https://ai.facebook.com/"
 
 [[experience.experiences]]
@@ -48,5 +48,5 @@ weight = 1
 +++
 
 
-Currently research intern at FAIR. PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. Trying to make deep neural networks generalize out of distribution. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
+Currently research intern at FAIR, and looking for postdoc opportunities. PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. Trying to make deep neural networks generalize out of distribution. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
 
