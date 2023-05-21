@@ -48,5 +48,5 @@ weight = 1
 +++
 
 
-Currently research intern at FAIR, and looking for postdoc opportunities. PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord. Trying to make deep neural networks generalize out of distribution. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
+PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord, and looking for postdoc opportunities. Ex FAIR MetaAI intern. Recycling and averaging deep neural networks to improve out-of-distribution generalization. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
 

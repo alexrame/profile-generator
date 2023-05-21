@@ -1,5 +1,5 @@
 +++
-title = "Recycling Diverse Models for Out-of-Distribution Generalization"
+title = "Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization"
 date = 2022-12-20
 math = false
 highlight = false
@@ -12,17 +12,17 @@ highlight = false
 list_format = 1
 
 
-abstract_short = "We propose a new fine-tuning strategy for OOD generalization in computer vision, which benefits from weight averaging and training on auxiliary tasks."
+abstract_short = "We propose a new fine-tuning strategy that improves OOD generalization in computer vision by recycling and averaging weights specialized on diverse auxiliary tasks."
 
 authors = ["Alexandre Ramé", "Kartik Ahuja", "Jianyu Zhang", "Matthieu Cord", "Léon Bottou", "David Lopez-Paz"]
-publication_origin = "arXiv"
+publication_origin = "ICML 2023"
 pdf = "https://arxiv.org/abs/2212.10445"
 project_page = false
 code = false
 
 
 url_pdf = "https://arxiv.org/abs/2212.10445"
-url_code = false
+url_code = "https://github.com/facebookresearch/ModelRatatouille"
 url_dataset = false
 url_poster = false
 url_project = false
