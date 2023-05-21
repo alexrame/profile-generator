@@ -17,11 +17,6 @@ abstract_short = "We introduce and motivate a new regularization that enforces i
 authors = ["Alexandre Ramé", "Corentin Dancette", "Matthieu Cord"]
 publication_origin = "ICML 2022"
 
-pdf = "https://arxiv.org/abs/2109.02934"
-project_page = false
-code = false
-
-
 url_pdf = "https://arxiv.org/abs/2109.02934"
 url_code = "https://github.com/alexrame/fishr"
 url_dataset = false

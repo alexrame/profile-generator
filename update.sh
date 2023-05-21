@@ -9,7 +9,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 
 # Set CNAME
-echo "arthurdouillard.com" > CNAME
+echo "alexandre.rame.cl@gmail.com" > CNAME
 
 # Add changes to git.
 git add .

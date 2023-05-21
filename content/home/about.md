@@ -20,13 +20,6 @@ weight = 1
   year = "2016 - 2020"
   url = "https://www.heuritech.com"
 
-[[experience.experiences]]
-  role = "Data Scientist"
-  company = "Flaminem"
-  year = "2015"
-  url = "https://www.flaminem.com"
-
-
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Student"
@@ -48,5 +41,8 @@ weight = 1
 +++
 
 
-PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord, and looking for postdoc opportunities. Ex FAIR MetaAI intern. Recycling and averaging deep neural networks to improve out-of-distribution generalization. Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
-
+PhD student at Sorbonne University in Paris under the supervision of Professor Matthieu Cord.
+Member of the [VISA-DEEP](https://chaire-visadeep.github.io/) chair of research and teaching in artificial intelligence.
+Ex FAIR MetaAI intern.
+My works have initially explored how ensembling, weight averaging and invariance can improve the robustness and out-of-distribution generalization in deep learning;
+I am now investigating how the generalization literature can help for alignment, to create AGIs benefiting society as a whole, *in all its diversity*.
