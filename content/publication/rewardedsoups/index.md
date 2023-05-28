@@ -1,5 +1,5 @@
 +++
-title = "Rewarded soups: towards Pareto-optimality by interpolating weights fine-tuned on diverse rewards"
+title = "Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards"
 date = 2023-05-21
 math = false
 highlight = false
