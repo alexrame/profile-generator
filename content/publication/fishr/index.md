@@ -14,7 +14,7 @@ list_format = 1
 
 abstract_short = "We introduce and motivate a new regularization that enforces invariance in the domain-level gradient variances across the different training domains in order to improve out-of-distribution generalization."
 
-authors = ["Alexandre Ramé", "Corentin Dancette", "Matthieu Cord"]
+authors = ["Alexandre Rame", "Corentin Dancette", "Matthieu Cord"]
 publication_origin = "ICML 2022"
 
 url_pdf = "https://arxiv.org/abs/2109.02934"

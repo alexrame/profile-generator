@@ -14,7 +14,7 @@ list_format = 1
 
 abstract_short = "We improve performances of object detectors via combining different datasets through soft distillation."
 
-authors = ["Alexandre Ramé", "Emilien Garreau", "Hedi Ben-Younes", "Charles Ollion"]
+authors = ["Alexandre Rame", "Emilien Garreau", "Hedi Ben-Younes", "Charles Ollion"]
 publication_origin = "arXiv"
 
 pdf = "https://arxiv.org/abs/1812.02611"

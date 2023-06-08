@@ -14,9 +14,9 @@ list_format = 1
 abstract_short = "We introduce rewarded soup, a new strategy to trade-off between multiple rewards when fine-tuning foundation models with RLHF; we first learn one network for each reward, and then linearly interpolate their weights."
 
 authors = ["Alexandre Ramé", "Guillaume Couairon", "Mustafa Shukor", "Corentin Dancette", "Jean-Baptiste Gaya", "Laure Soulier", "Matthieu Cord"]
-publication_origin = "Under submission, soon on arXiv"
+publication_origin = "arXiv"
 
-url_pdf = "https://alexrame.github.io/publication/rewardedsoups/rewardedsoups.pdf"
+url_pdf = "https://arxiv.org/abs/2306.04488"
 url_code = "https://github.com/alexrame/rewardedsoups"
 url_dataset = false
 url_poster = false

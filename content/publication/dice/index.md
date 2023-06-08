@@ -13,7 +13,7 @@ list_format = 0
 
 pretty_date = ""
 
-authors = ["Alexandre Ramé", "Matthieu Cord"]
+authors = ["Alexandre Rame", "Matthieu Cord"]
 
 abstract_short = "Driven by arguments from information theory, we introduce a new learning strategy for deep ensembles that increases diversity among members: we adversarially prevent features from being conditionally redundant."
 

@@ -14,7 +14,7 @@ list_format = 0
 pretty_date = ""
 abstract_short = "We introduce a new generalized framework for learning multi-input multi-output subnetworks and study how to best mix the inputs. We obtain sota on CIFAR and Tiny ImageNet by better leveraging the expressiveness of large networks."
 
-authors = ["Alexandre Ramé", "Rémy Sun", "Matthieu Cord"]
+authors = ["Alexandre Rame", "Rémy Sun", "Matthieu Cord"]
 publication_origin = "ICCV 2021"
 
 
