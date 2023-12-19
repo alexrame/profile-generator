@@ -14,7 +14,7 @@ list_format = 1
 
 abstract_short = "We propose a new fine-tuning strategy that improves OOD generalization in computer vision by recycling and averaging weights specialized on diverse auxiliary tasks."
 
-authors = ["Alexandre Ramé", "Kartik Ahuja", "Jianyu Zhang", "Matthieu Cord", "Léon Bottou", "David Lopez-Paz"]
+authors = ["Alexandre Rame", "Kartik Ahuja", "Jianyu Zhang", "Matthieu Cord", "Léon Bottou", "David Lopez-Paz"]
 publication_origin = "ICML 2023"
 pdf = "https://arxiv.org/abs/2212.10445"
 project_page = false
