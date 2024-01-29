@@ -14,7 +14,7 @@ list_format = 0
 pretty_date = ""
 abstract_short = "We introduce a new generalized framework for learning multi-input multi-output subnetworks and study how to best mix the inputs. We obtain sota on CIFAR and Tiny ImageNet by better leveraging the expressiveness of large networks."
 
-authors = ["Alexandre Rame", "Rémy Sun", "Matthieu Cord"]
+authors = ["**Alexandre Ramé**", "Rémy Sun", "Matthieu Cord"]
 publication_origin = "ICCV 2021"
 
 
@@ -29,9 +29,9 @@ links = [
 url_pdf = "https://arxiv.org/abs/2103.06132"
 url_code = "https://github.com/alexrame/mixmo-pytorch"
 url_dataset = false
-url_poster = "poster_mixmo.pdf"
+url_poster = "mixmo-poster.pdf"
 url_project = false
-url_slides = "mixmo_prez_iccv_final.pdf"
+url_slides = "mixmo-slides.pdf"
 url_source = false
 url_video = false
 

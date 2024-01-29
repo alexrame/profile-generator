@@ -14,13 +14,13 @@ list_format = 1
 
 abstract_short = "During my PhD, I analyzed how ensembling via weight averaging can improve out-of-distribution generalization and alignment."
 
-authors = ["Alexandre Ramé"]
+authors = ["**Alexandre Ramé**"]
 publication_origin = "PhD"
-pdf = "https://alexrame.github.io/publication/phd/manuscript_phd.pdf"
+pdf = "manuscript_phd.pdf"
 project_page = false
 code = false
 
-url_pdf = "https://alexrame.github.io/publication/phd/manuscript_phd.pdf"
+url_pdf = "manuscript_phd.pdf"
 url_code = false
 url_dataset = false
 url_poster = false

@@ -1,6 +1,6 @@
 +++
 title = "Beyond task performance: evaluating and reducing the flaws of large multimodal models with in-context-learning"
-date = 2023-05-19
+date = 2023-10-01
 math = false
 highlight = false
 
@@ -13,8 +13,8 @@ list_format = 1
 
 abstract_short = "We investigate large multimodal models and their limitations such as hallucinations and lack of explainability. We then show that multimodal in-context learning can reduce some of these flaws."
 
-authors = ["Mustafa Shukor", "Alexandre Ramé", "Corentin Dancette", "Matthieu Cord"]
-publication_origin = "arXiv"
+authors = ["Mustafa Shukor", "**Alexandre Ramé**", "Corentin Dancette", "Matthieu Cord"]
+publication_origin = "ICLR 2024"
 pdf = "https://arxiv.org/abs/2310.00647"
 
 url_pdf = "https://arxiv.org/abs/2310.00647"

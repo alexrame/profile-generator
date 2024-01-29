@@ -14,15 +14,15 @@ list_format = 1
 
 abstract_short = "We introduce and motivate a new regularization that enforces invariance in the domain-level gradient variances across the different training domains in order to improve out-of-distribution generalization."
 
-authors = ["Alexandre Rame", "Corentin Dancette", "Matthieu Cord"]
+authors = ["**Alexandre Ramé**", "Corentin Dancette", "Matthieu Cord"]
 publication_origin = "ICML 2022"
 
 url_pdf = "https://arxiv.org/abs/2109.02934"
 url_code = "https://github.com/alexrame/fishr"
 url_dataset = false
-url_poster = "poster_fishr.pdf"
+url_poster = "fishr-poster.pdf"
 url_project = false
-url_slides = "fishr_prez.pdf"
+url_slides = "fishr-slides.pdf"
 url_source = false
 url_video = false
 

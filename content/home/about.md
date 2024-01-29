@@ -9,6 +9,12 @@ weight = 1
 
 # List your experience.
 [[experience.experiences]]
+  role = "Research Scientist"
+  company = "Google DeepMind"
+  year = "Mar 2024 - "
+  url = "https://www.deepmind.com/"
+
+[[experience.experiences]]
   role = "Student Researcher"
   company = "Google DeepMind"
   year = "Oct 2023 - Jan 2024"
@@ -46,7 +52,7 @@ weight = 1
   url = "https://www.polytechnique.edu/en"
 +++
 
-Student researcher at Google DeepMind, in Paris.
+Research scientist at Google DeepMind, in Paris.
 Previously PhD from Sorbonne University under the supervision of Professor Matthieu Cord, and intern at FAIR Meta.
 My works have initially explored how ensembling, weight averaging and invariance can improve the robustness and out-of-distribution generalization in deep learning;
-I am now investigating how the generalization literature can help for alignment, to improve reward modeling, to create AGIs benefiting society as a whole, *in all its diversity*.
+I am now investigating how the generalization literature can help for alignment, to improve reward modeling, and create AGIs benefiting society as a whole.

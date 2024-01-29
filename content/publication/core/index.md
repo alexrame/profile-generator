@@ -15,7 +15,7 @@ pretty_date = ""
 
 abstract_short = "We detect continuous colors for fashion garments using a new architecture."
 
-authors = ["Alexandre Rame", "Arthur Douillard", "Charles Ollion"]
+authors = ["**Alexandre Ramé**", "Arthur Douillard", "Charles Ollion"]
 publication_origin = "CVPR 2022 CVFAD Workshop"
 
 pdf = "https://arxiv.org/abs/2010.02849"
@@ -29,7 +29,7 @@ links = [
 url_pdf = "https://arxiv.org/abs/2010.02849"
 url_code = false
 url_dataset = false
-url_poster = "poster_core.pdf"
+url_poster = "core-poster.pdf"
 url_project = false
 url_slides = false
 url_source = false
