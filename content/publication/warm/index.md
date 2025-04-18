@@ -14,13 +14,13 @@ list_format = 1
 abstract_short = "We introduce a new strategy for reward modeling in alignment via RLHF: we merge multiple reward models into one that's more reliable and robust, and thus mitigates reward hacking."
 
 authors = ["**Alexandre Ramé**", "Nino Vieillard", "Léonard Hussenot", "Robert Dadashi", "Geoffrey Cideron", "Olivier Bachem", "Johan Ferret"]
-publication_origin = "arXiv preprint"
+publication_origin = "ICML 2024"
 pdf = "https://arxiv.org/abs/2401.12187"
 
 url_pdf = "https://arxiv.org/abs/2401.12187"
 url_code = false
 url_dataset = false
-url_poster = false
+url_poster = "warm-poster.pdf"
 url_project = false
 url_slides = "warm-slides.pdf"
 url_source = false

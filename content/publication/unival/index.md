@@ -14,7 +14,7 @@ list_format = 1
 abstract_short = "UnIVAL is a 0.25B-parameter unified model that is multitask pretrained on image and video-text data and target image, video and audio-text downstream tasks."
 
 authors = ["Mustafa Shukor", "Corentin Dancette", "**Alexandre Ramé**", "Matthieu Cord"]
-publication_origin = "TMLR"
+publication_origin = "TMLR 2023"
 pdf = "https://arxiv.org/abs/2307.16184"
 
 url_pdf = "https://arxiv.org/abs/2307.16184"

@@ -53,6 +53,5 @@ weight = 1
 +++
 
 Research scientist at Google DeepMind, in Paris.
-Previously PhD from Sorbonne University under the supervision of Professor Matthieu Cord, and intern at FAIR Meta.
-My works have initially explored how ensembling, weight averaging and invariance can improve the robustness and out-of-distribution generalization in deep learning;
-I am now investigating how the generalization literature can help for alignment, to improve reward modeling, and create AGIs benefiting society as a whole.
+Post-training --- distillation, RL, merging and reasoning --- to improve the alignment of Gemma LLMs with the world in all its diversity.
+My thesis received the 2024 SSFAM award of the best French PhD in ML.

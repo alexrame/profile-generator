@@ -12,20 +12,20 @@ highlight = false
 list_format = 1
 
 
-abstract_short = "During my PhD, I analyzed how ensembling via weight averaging can improve out-of-distribution generalization and alignment."
+abstract_short = "During my PhD, I analyzed how ensembling via weight averaging can improve out-of-distribution generalization and alignment. This received the 2024 award of the best ML thesis in France from [SSFAM](http://ssfam.org/laureats-prix-de-these-ssfam/)."
 
 authors = ["**Alexandre Ramé**"]
-publication_origin = "PhD"
+publication_origin = "PhD 2023"
 pdf = "manuscript_phd.pdf"
 project_page = false
 code = false
 
-url_pdf = "manuscript_phd.pdf"
+url_pdf = "https://alexrame.github.io/publication/phd/manuscript_phd.pdf"
 url_code = false
 url_dataset = false
 url_poster = false
 url_project = false
-url_slides = "slides_phd.pdf"
+url_slides = "phd-slides.pdf"
 url_source = false
 url_video = "https://www.youtube.com/watch?v=DTD7qtcueks"
 

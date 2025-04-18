@@ -40,5 +40,3 @@ url_video = false
 image = ""
 caption = ""
 +++
-
-https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w32/Corbiere_Leveraging_Weakly_Annotated_ICCV_2017_paper.pdf
